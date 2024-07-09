@@ -1,5 +1,5 @@
-Cucumber-simple-test
+# cucumber-test
 
-Note : Currently the cucumber feature file and step definition files are under ./src/test. This location may duplicate with unit tests.
+This project is following standard maven file structure. It contains `unit test` and `cucumber test` under the src/test/java directory.
 
-Run : mvn clean test
+Running `mvn clean test` will run both unit tests and cucumber tests
